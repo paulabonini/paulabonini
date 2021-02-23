@@ -3,14 +3,20 @@
 <!--
 **paulabonini/paulabonini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img width="auto" src="file:///C:/Users/paula/Downloads/My%20Post.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Paula Bonini
+
+## Olá pessoal 👋
+Gosto de fazer as coisas acontecerem, saírem do papel.
+Sou Front-end Developer :computer:
+
+ :money_with_wings:  &nbsp; Estou trabalhando no **Bexs Banco**
+ <br/> :purple_heart: &nbsp; Buscando aprimorar meus conhecimentos com projetos em Front-end usando React
+ <br/> :computer: &nbsp; Minha stack: Html, CSS, JavaScript e ReactJS.
+ <br/> :star:  &nbsp; Sobre mim: Curto tecnologias, música, tocar guitarra e esportes.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PaulaBonini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulabonini/)](https://www.linkedin.com/in/paulabonini/) 
+ 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-paula_almeidabonini@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paula_almeidabonini@hotmail.com)](mailto:paula_almeidabonini@hotmail.com)
