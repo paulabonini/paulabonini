@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**paulabonini/paulabonini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img width="auto" src="file:///C:/Users/paula/Downloads/My%20Post.png">
 
 
@@ -20,3 +17,9 @@ Sou Front-end Developer :computer:
  
 | 
 [![Gmail Badge](https://img.shields.io/badge/-paula_almeidabonini@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paula_almeidabonini@hotmail.com)](mailto:paula_almeidabonini@hotmail.com)
+
+
+
+<!--
+**paulabonini/paulabonini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
