@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img width="auto" src="file:///C:/Users/paula/Downloads/My%20Post.png">
 
 
@@ -13,9 +11,7 @@ Sou Front-end Developer :computer:
  <br/> :purple_heart: &nbsp; Buscando aprimorar meus conhecimentos com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minha stack: Html, CSS, JavaScript e ReactJS.
  <br/> :star:  &nbsp; Sobre mim: Curto tecnologias, música, tocar guitarra e esportes.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PaulaBonini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulabonini/)](https://www.linkedin.com/in/paulabonini/) 
- 
-| 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PaulaBonini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulabonini/)](https://www.linkedin.com/in/paulabonini/) | 
 [![Gmail Badge](https://img.shields.io/badge/-paula_almeidabonini@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paula_almeidabonini@hotmail.com)](mailto:paula_almeidabonini@hotmail.com)
 
 
