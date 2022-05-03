@@ -7,9 +7,9 @@
 Gosto de fazer as coisas acontecerem, saírem do papel.
 Sou Front-end Developer :computer:
 
- :money_with_wings:  &nbsp; Estou trabalhando no **Bexs Banco**
+ :money_with_wings:  &nbsp; Estou trabalhando na **Movile Pay**
  <br/> :purple_heart: &nbsp; Buscando aprimorar meus conhecimentos com projetos em Front-end usando React
- <br/> :computer: &nbsp; Minha stack: Html, CSS, JavaScript e ReactJS.
+ <br/> :computer: &nbsp; Minha stack: Html, CSS, JavaScript, Typescript e ReactJS.
  <br/> :star:  &nbsp; Sobre mim: Curto tecnologias, música, tocar guitarra e esportes.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PaulaBonini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulabonini/)](https://www.linkedin.com/in/paulabonini/) | 
 [![Gmail Badge](https://img.shields.io/badge/-paula_almeidabonini@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paula_almeidabonini@hotmail.com)](mailto:paula_almeidabonini@hotmail.com)
