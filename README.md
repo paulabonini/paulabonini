@@ -5,9 +5,9 @@
 
 ## Olá pessoal 👋
 Gosto de fazer as coisas acontecerem, saírem do papel.
-Sou Front-end Developer :computer:
+Sou Sr Front-end Engineer :computer:
 
- :money_with_wings:  &nbsp; Estou trabalhando na **Movile Pay**
+ :money_with_wings:  &nbsp; Estou trabalhando na **Lanxess**
  <br/> :purple_heart: &nbsp; Buscando aprimorar meus conhecimentos com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minha stack: Html, CSS, JavaScript, Typescript e ReactJS.
  <br/> :star:  &nbsp; Sobre mim: Curto tecnologias, música, tocar guitarra e esportes.
