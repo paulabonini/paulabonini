@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Gosto de fazer as coisas acontecerem, saírem do papel.
-Sou Sr Front-end Engineer :computer:
+Sou Front-end Engineer :computer:
 
  :money_with_wings:  &nbsp; Estou trabalhando no **Mercado Livre**
  <br/> :purple_heart: &nbsp; Buscando aprimorar meus conhecimentos com projetos em Front-end usando React
